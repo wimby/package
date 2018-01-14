@@ -2,6 +2,8 @@
 
 /docs export-ignore
 /tests export-ignore
+/.editorconfig
 /.gitattributes export-ignore
 /.gitignore export-ignore
+/.phplint.yml
 /README.md export-ignore
